@@ -69,11 +69,8 @@ BetterPingDisplay-1.12.2
 LegendaryTooltips-1.12.2
 ping-1.9
 smarthud
-CustomLoadingScreen-1.12.2
-Blur
 DynamicSurroundings-1.12.2
 DynamicSurroundingsHuds-1.12.2
-EnhancedVisuals
 AppleSkin
 betterbiomeblend-1.12.2
 BetterThirdPerson-Forge-1.12.2
@@ -82,7 +79,6 @@ simple-rpc-1.12.2
 cirback
 JourneyMapStages-1.12.2
 JustEnoughResources-1.12.2
-MobDismemberment-1.12.2
 noRecipeBook
 Nothirium-1.12.2
 Iceberg
@@ -90,17 +86,10 @@ RenderLib-1.12.2
 moredefaultoptions-1.12
 ClientTweaks_1.12.2
 ChatFlow
-Modpack Configuration Checker-1.12.2
 difficultylock_1.12.2
 bookdisplay-1.12.2
-Controlling
-BetterAdvancements-1.12.2
-betterhud-1.12.2
 customnausea-1.12.2
 Biome Border Viewer
-CTM-MC1.12.2
 jetif-1.12.2
-particleculling-1.12.2
-fancymenu_forge
 Multiblock mobs
 NoNVFlash-1.12.2
