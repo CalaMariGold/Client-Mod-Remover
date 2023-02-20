@@ -59,3 +59,37 @@ packupdater
 guicompass_
 LoadingScreens-1.12.2
 loadmyresources
+darkness-forge-1.12.x
+invMove-1.12.2
+gamestagesviewer
+EquipmentCompare-1.12.2
+betterchat
+BetterFoliage-MC1.12
+BetterPingDisplay-1.12.2
+LegendaryTooltips-1.12.2
+ping-1.9
+smarthud
+DynamicSurroundings-1.12.2
+DynamicSurroundingsHuds-1.12.2
+AppleSkin
+betterbiomeblend-1.12.2
+BetterThirdPerson-Forge-1.12.2
+BlockOverlayFix-1.12.2
+simple-rpc-1.12.2
+cirback
+JourneyMapStages-1.12.2
+JustEnoughResources-1.12.2
+noRecipeBook
+Nothirium-1.12.2
+Iceberg
+RenderLib-1.12.2
+moredefaultoptions-1.12
+ClientTweaks_1.12.2
+ChatFlow
+difficultylock_1.12.2
+bookdisplay-1.12.2
+customnausea-1.12.2
+Biome Border Viewer
+jetif-1.12.2
+Multiblock mobs
+NoNVFlash-1.12.2
