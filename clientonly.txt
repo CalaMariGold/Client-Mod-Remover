@@ -95,3 +95,6 @@ Biome Border Viewer
 jetif-1.12.2
 Multiblock mobs
 NoNVFlash-1.12.2
+ItemBorders-1.12.2
+CustomCursorMod
+mcmouser-1.12.2
