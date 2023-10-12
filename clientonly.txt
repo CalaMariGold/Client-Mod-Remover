@@ -1,3 +1,5 @@
+StatusEffectHUD
+minemenu-1.12.2
 SuperHostileNightVision-
 advancementscreenshot_1.12.2
 probe-0.
@@ -98,3 +100,10 @@ NoNVFlash-1.12.2
 ItemBorders-1.12.2
 CustomCursorMod
 mcmouser-1.12.2
+AdvancementPlaques-1.12.2
+Mineshot-
+SmoothWater-
+moresoundconfig-
+horseinfo-
+JustEnoughEffects-
+ResourcePackOrganizer
