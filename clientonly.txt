@@ -107,3 +107,7 @@ moresoundconfig-
 horseinfo-
 JustEnoughEffects-
 ResourcePackOrganizer
+Highlighter-1.12.2
+potiondescriptions-1.12.2
+fogger-1.12.2
+musictriggers
