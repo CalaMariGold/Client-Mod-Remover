@@ -110,4 +110,5 @@ ResourcePackOrganizer
 Highlighter-1.12.2
 potiondescriptions-1.12.2
 fogger-1.12.2
-musictriggers
+ears-forge-1.12
+ShoulderSurfing-
