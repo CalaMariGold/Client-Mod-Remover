@@ -52,7 +52,6 @@ NamePain
 Sound-Physics
 SplashAnimation
 FullscreenWindowed
-mod-director
 BetterPlacement
 ConsoleHUD
 CustomBackgrounds
