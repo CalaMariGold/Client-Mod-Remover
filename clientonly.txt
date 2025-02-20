@@ -115,3 +115,6 @@ BHMenu-Forge-1.12.2
 forcedresourcepacks
 neverenoughanimations
 RLFoliage-MC1.12
+hitindication-1.12.2
+beautifiedchatclient_1.12.2
+EnchantmentDescriptions-1.12.2
