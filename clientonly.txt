@@ -119,3 +119,6 @@ hitindication-1.12.2
 beautifiedchatclient_1.12.2
 EnchantmentDescriptions-1.12.2
 OptionsEnforcer-1.12.2
+gnetum-
+EuphoriaPatcher-
+ProbeZS-
