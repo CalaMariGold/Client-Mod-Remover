@@ -84,6 +84,7 @@ JourneyMapStages-1.12.2
 JustEnoughResources-1.12.2
 noRecipeBook
 Nothirium-1.12.2
+naughthirium
 Iceberg
 RenderLib-1.12.2
 moredefaultoptions-1.12
@@ -122,3 +123,4 @@ OptionsEnforcer-1.12.2
 gnetum-
 EuphoriaPatcher-
 ProbeZS-
+CrashAssistant-
